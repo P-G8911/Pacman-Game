@@ -5,9 +5,9 @@ Pac-Man, originally called Puck Man in Japan, is a 1980 maze action video game d
 The player controls Pac-Man, who must eat all the dots inside an enclosed maze while avoiding four colored ghosts. 
 Eating large flashing dots called "Power Pellets" causes the ghosts to temporarily turn blue, allowing Pac-Man to eat them for bonus points.
 
-# Used Language
-Java 💫
+### Used Language
+- Java 💫
 
-# To Do List
-[] Increase difficulty and Number of levels
-[] Add "Power Pellets" feature
+### To Do List
+- [ ] Increase difficulty and Number of levels
+- [ ] Add "Power Pellets" feature
