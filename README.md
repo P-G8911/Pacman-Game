@@ -8,6 +8,8 @@ Eating large flashing dots called "Power Pellets" causes the ghosts to temporari
 
 ---
 
+### How it Looks ?
+
 ### Used Language
 - Java 💫
 ---
